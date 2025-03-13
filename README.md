@@ -69,4 +69,4 @@ Created and maintained by Dany Boza ([@xorbmoon](https://twitter.com/xorbmoon)).
 ## License
 
 [MIT](LICENSE)
-.
+
